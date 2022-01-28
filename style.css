@@ -1,0 +1,59 @@
+body {
+    background: #C6D57E;
+    font-family: "Baloo Tamma 2 " , cursive;
+}
+
+.m-heading {
+   font-family: serif;
+    
+}
+
+.navigation-link{
+    border : 2px solid transparent;
+}
+
+
+
+
+
+.navigation-link:hover {
+    text-decoration: none;
+    border-bottom: 2px solid #f5ba09;
+    transition: 0.5s ease;}
+
+.main-container {
+   min-height: 100vh;
+
+}
+
+.main_row {
+display: flex;
+justify-content:  center;
+align-items:  center;
+}
+
+.main_row h1 {
+ font-size: 5rem;
+  }
+
+
+
+#หน้าหลัก {
+    background: #D57E7E;
+    border-radius: 0.5rem;
+}
+
+.card{
+    background: #A2CDCD;
+}
+
+.work-experience{
+    background: #FFE1AF;
+    border-radius: 0.5rem;
+}
+
+.edu{
+    background: #FFE1AF;
+    margin:auto;
+}
+
